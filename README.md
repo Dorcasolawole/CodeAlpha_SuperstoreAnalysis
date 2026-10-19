@@ -27,3 +27,6 @@ Finding:Eight order-product combinations appeared more than once. Further invest
 - The dataset contains 9,994 records representing 5,009 distinct orders.
 - Repeated order-product combinations require further investigation before any records are removed.
 
+   Author
+Dorcas Itunu Olawole | Data Analytics Intern at CodeAlpha | [LinkedIn](linkedin.com/in/dorcas-olawole-320309403/))
+
