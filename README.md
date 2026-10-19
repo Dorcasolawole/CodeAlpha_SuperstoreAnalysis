@@ -28,5 +28,5 @@ Finding:Eight order-product combinations appeared more than once. Further invest
 - Repeated order-product combinations require further investigation before any records are removed.
 
    Author
-Dorcas Itunu Olawole | Data Analytics Intern at CodeAlpha | [LinkedIn](linkedin.com/in/dorcas-olawole-320309403/))
+Dorcas Itunu Olawole | Data Analytics Intern at CodeAlpha | [LinkedIn](www.linkedin.com/in/dorcas-olawole-320309403/)
 
